@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Cubes School/KomentarProject/app/src/main/res/drawable/backgroun_button_clicked.xml" value="0.1705" />
+        <entry key="..\:/Cubes School/KomentarProject/app/src/main/res/drawable/ic_back.xml" value="0.1835" />
+        <entry key="..\:/Cubes School/KomentarProject/app/src/main/res/drawable/ic_comment.xml" value="0.1835" />
+        <entry key="..\:/Cubes School/KomentarProject/app/src/main/res/drawable/ic_comment_blue.xml" value="0.193" />
+        <entry key="..\:/Cubes School/KomentarProject/app/src/main/res/drawable/ic_komentar_logo_1.xml" value="0.1675" />
+        <entry key="..\:/Cubes School/KomentarProject/app/src/main/res/drawable/ic_logo.xml" value="0.1835" />
+        <entry key="..\:/Cubes School/KomentarProject/app/src/main/res/drawable/ic_menu_icon.xml" value="0.1835" />
+        <entry key="..\:/Cubes School/KomentarProject/app/src/main/res/drawable/ic_new_icon.xml" value="0.1835" />
+        <entry key="..\:/Cubes School/KomentarProject/app/src/main/res/drawable/ic_play_button.xml" value="0.1835" />
+        <entry key="..\:/Cubes School/KomentarProject/app/src/main/res/drawable/ic_plus_icon.xml" value="0.1835" />
+        <entry key="..\:/Cubes School/KomentarProject/app/src/main/res/drawable/ic_reply.xml" value="0.1835" />
+        <entry key="..\:/Cubes School/KomentarProject/app/src/main/res/drawable/ic_up.xml" value="0.2115" />
+        <entry key="..\:/Cubes School/KomentarProject/app/src/main/res/drawable/rectangle.xml" value="0.1695" />
+        <entry key="..\:/Cubes School/KomentarProject/app/src/main/res/drawable/rectangle_button_comment.xml" value="0.176" />
+        <entry key="..\:/Cubes School/KomentarProject/app/src/main/res/drawable/shape.xml" value="0.1735" />
+        <entry key="..\:/Cubes School/KomentarProject/app/src/main/res/drawable/side_nav_bar.xml" value="0.1695" />
+        <entry key="..\:/Cubes School/KomentarProject/app/src/main/res/drawable/transparent_background.xml" value="0.179" />
+        <entry key="..\:/Cubes School/KomentarProject/app/src/main/res/layout/activity_all_commnet.xml" value="0.20108695652173914" />
+        <entry key="..\:/Cubes School/KomentarProject/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Cubes School/KomentarProject/app/src/main/res/layout/activity_menu.xml" value="0.20833333333333334" />
+        <entry key="..\:/Cubes School/KomentarProject/app/src/main/res/layout/activity_news_detail.xml" value="0.2" />
+        <entry key="..\:/Cubes School/KomentarProject/app/src/main/res/layout/activity_post_comment.xml" value="0.264" />
+        <entry key="..\:/Cubes School/KomentarProject/app/src/main/res/layout/activity_splash_screen.xml" value="0.2210144927536232" />
+        <entry key="..\:/Cubes School/KomentarProject/app/src/main/res/layout/activity_subcategory.xml" value="0.264" />
+        <entry key="..\:/Cubes School/KomentarProject/app/src/main/res/layout/activity_tag.xml" value="0.2" />
+        <entry key="..\:/Cubes School/KomentarProject/app/src/main/res/layout/content_menu.xml" value="0.2128623188405797" />
+        <entry key="..\:/Cubes School/KomentarProject/app/src/main/res/layout/fragment_home.xml" value="0.22826086956521738" />
+        <entry key="..\:/Cubes School/KomentarProject/app/src/main/res/layout/fragment_home_page_v_p.xml" value="0.19519927536231885" />
+        <entry key="..\:/Cubes School/KomentarProject/app/src/main/res/layout/fragment_latest.xml" value="0.22826086956521738" />
+        <entry key="..\:/Cubes School/KomentarProject/app/src/main/res/layout/fragment_news_list_v_p.xml" value="0.2" />
+        <entry key="..\:/Cubes School/KomentarProject/app/src/main/res/layout/fragment_search.xml" value="0.264" />
+        <entry key="..\:/Cubes School/KomentarProject/app/src/main/res/layout/fragment_video.xml" value="0.22826086956521738" />
+        <entry key="..\:/Cubes School/KomentarProject/app/src/main/res/layout/rv_item_big_news.xml" value="0.264" />
+        <entry key="..\:/Cubes School/KomentarProject/app/src/main/res/layout/rv_item_button_news_details.xml" value="0.4" />
+        <entry key="..\:/Cubes School/KomentarProject/app/src/main/res/layout/rv_item_comment_details_news.xml" value="0.4" />
+        <entry key="..\:/Cubes School/KomentarProject/app/src/main/res/layout/rv_item_editors_choice.xml" value="0.2" />
+        <entry key="..\:/Cubes School/KomentarProject/app/src/main/res/layout/rv_item_header_detail_news.xml" value="0.264" />
+        <entry key="..\:/Cubes School/KomentarProject/app/src/main/res/layout/rv_item_menu.xml" value="0.264" />
+        <entry key="..\:/Cubes School/KomentarProject/app/src/main/res/layout/rv_item_menu_title.xml" value="0.4" />
+        <entry key="..\:/Cubes School/KomentarProject/app/src/main/res/layout/rv_item_mini_news.xml" value="0.264" />
+        <entry key="..\:/Cubes School/KomentarProject/app/src/main/res/layout/rv_item_rv_categorybox.xml" value="0.2" />
+        <entry key="..\:/Cubes School/KomentarProject/app/src/main/res/layout/rv_item_rv_slider.xml" value="0.2" />
+        <entry key="..\:/Cubes School/KomentarProject/app/src/main/res/layout/rv_item_rv_tag.xml" value="0.21105072463768115" />
+        <entry key="..\:/Cubes School/KomentarProject/app/src/main/res/layout/rv_item_slide_bar_top.xml" value="0.264" />
+        <entry key="..\:/Cubes School/KomentarProject/app/src/main/res/layout/rv_item_slider.xml" value="0.264" />
+        <entry key="..\:/Cubes School/KomentarProject/app/src/main/res/layout/rv_item_small_news.xml" value="0.264" />
+        <entry key="..\:/Cubes School/KomentarProject/app/src/main/res/layout/rv_item_subcategory.xml" value="0.536" />
+        <entry key="..\:/Cubes School/KomentarProject/app/src/main/res/layout/rv_item_tags_details_news.xml" value="0.536" />
+        <entry key="..\:/Cubes School/KomentarProject/app/src/main/res/layout/rv_item_title_details_news.xml" value="0.264" />
+        <entry key="..\:/Cubes School/KomentarProject/app/src/main/res/layout/rv_item_video.xml" value="0.264" />
+        <entry key="..\:/Cubes School/KomentarProject/app/src/main/res/layout/rv_item_video_box.xml" value="0.2" />
+        <entry key="..\:/Cubes School/KomentarProject/app/src/main/res/layout/rv_item_view.xml" value="0.264" />
+        <entry key="..\:/Cubes School/KomentarProject/app/src/main/res/layout/rv_item_webiew_details_news.xml" value="0.20833333333333334" />
+        <entry key="..\:/Cubes School/KomentarProject/app/src/main/res/menu/home_menu.xml" value="0.22604166666666667" />
+        <entry key="..\:/Cubes School/KomentarProject/app/src/main/res/menu/menu.xml" value="0.2421875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

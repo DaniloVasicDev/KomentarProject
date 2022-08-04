@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="400dp">
+
+    <TextView
+        android:id="@+id/textViewTitle"
+        android:layout_width="match_parent"
+        android:layout_height="180dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        android:layout_margin="@dimen/margin_left"
+        android:textSize="@dimen/text_big"
+        android:textStyle="bold"
+        android:maxLines="5"
+        android:textColor="@color/black"
+        android:textAllCaps="false"
+        android:text="Luksuzan život trudne Jelene Bin Drai! Vodi brigu o troje dece, kao i šest kompanija: Ovo je ključ mog uspeha!"/>
+
+    <TextView
+        android:id="@+id/textViewDate"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="19.06.2021|00:58:35"
+        android:textAllCaps="true"
+        android:textColor="@color/gray"
+        android:textSize="16dp"
+        android:layout_margin="@dimen/margin_left"
+        android:textStyle="bold"
+        android:layout_marginTop="@dimen/margin_left"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textViewTitle" />
+
+
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="@dimen/margin_left"
+        android:text="|"
+        android:textStyle="bold"
+        app:layout_constraintStart_toEndOf="@+id/textViewTime"
+        app:layout_constraintTop_toBottomOf="@+id/textViewTitle" />
+
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="@dimen/text_small"
+        android:layout_height="@dimen/text_small"
+        android:layout_marginStart="4dp"
+        android:layout_marginTop="16dp"
+        android:src="@drawable/ic_comment_blue"
+        app:layout_constraintStart_toEndOf="@+id/textViewDate"
+        app:layout_constraintTop_toBottomOf="@+id/textViewTitle" />
+
+    <TextView
+        android:id="@+id/textViewCountComment"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="4dp"
+        android:layout_marginTop="8dp"
+        android:text="5"
+        android:textColor="@color/dark_blue"
+        android:textSize="20dp"
+        app:layout_constraintStart_toEndOf="@+id/imageView2"
+        app:layout_constraintTop_toBottomOf="@+id/textViewTitle" />
+
+    <LinearLayout
+        android:id="@+id/linearLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/margin_left"
+        android:layout_marginTop="50dp"
+        android:layout_marginRight="@dimen/margin_left"
+        android:background="@color/light_gray"
+        android:orientation="horizontal"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textViewTitle">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/margin_left"
+            android:text="Autor:"
+            android:textColor="@color/mid_gray"
+            android:textSize="@dimen/text_small" />
+
+        <TextView
+            android:id="@+id/textViewAutor"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/margin_left"
+            android:layout_marginRight="@dimen/margin_mid"
+            android:text="M. Gudžulić"
+            android:textColor="@color/dark_blue"
+            android:textSize="@dimen/text_small" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/margin_left"
+            android:text="Izvor:"
+            android:textColor="@color/mid_gray"
+            android:textSize="@dimen/text_small" />
+
+        <TextView
+            android:id="@+id/textViewIzvor"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/margin_left"
+            android:text="Index.hr"
+            android:textColor="@color/dark_blue"
+            android:textSize="@dimen/text_small" />
+
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/textViewInfo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/linearLayout"
+        android:layout_margin="@dimen/margin_left"
+        android:textSize="@dimen/text_norm"
+        android:textColor="@color/black"
+        android:text="Proslavljenoj misici život se u potpunosti promenio pošto je upoznala, a onda i ušla u brak sa arapskim biznismenom Saidom, s kojim je i osnovala porodicu"/>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
